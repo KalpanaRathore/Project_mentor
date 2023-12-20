@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Project_mentor/static/css/main.6c3ec371.css",
+    "main.js": "/Project_mentor/static/js/main.15df247a.js",
+    "static/js/787.dfc920a0.chunk.js": "/Project_mentor/static/js/787.dfc920a0.chunk.js",
+    "static/media/gurukul.jpg": "/Project_mentor/static/media/gurukul.6ad81e813b18d96fbe97.jpg",
+    "index.html": "/Project_mentor/index.html",
+    "main.6c3ec371.css.map": "/Project_mentor/static/css/main.6c3ec371.css.map",
+    "main.15df247a.js.map": "/Project_mentor/static/js/main.15df247a.js.map",
+    "787.dfc920a0.chunk.js.map": "/Project_mentor/static/js/787.dfc920a0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c3ec371.css",
+    "static/js/main.15df247a.js"
+  ]
+}
